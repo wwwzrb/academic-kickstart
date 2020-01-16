@@ -34,7 +34,7 @@ education:
     institution: Shanghai Jiao Tong University
     year: 2017-2019
   - course: BSc in 
-    institution: Shanghai Jiao Tong University
+    institution: Shanghai University
     year: 2013-2017
 
 # Social/Academic Networking
