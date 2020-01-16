@@ -28,7 +28,7 @@ publication_short: In *2019 CWSN*
 abstract: This paper presents Rate Adaptive Broadcast (RAB), a novel wireless design that enables the rate adaptive broadcast in Internet of things (IoT). Broadcast is common in IoT due to the ubiquitous tree topologies. Channel resource is usually underused in broadcast because there is no rate adaptation in conventional broadcast and the data rate is always set as the lowest one by default. Existing rate adaptation methods work only for unicast or multicast, relying on information interaction between senders and receivers. These methods cannot directly apply in broadcast, which is a one-way transmission without acknowledgement (ACK). It is also impractical to transplant conventional ACK into broadcast, otherwise, massive ACKs will lead to a heavy overhead. To tackle this dilemma, we propose RAB, which allows the sender to broadcast data ceaselessly while adjusting the data rate according to real-time channel states. The core contribution is the subtly designed feedbacks that can be concurrently delivered and do not affect any reception. We implement RAB on USRPs and establish a 20-node IoT testbed. Experiment results demonstrate that the throughput is largely improved. The throughput of RAB is 2.8x of the standard WiFi and 1.3x of MuDRA, the state-of-the-art multicast rate adaptation method.
 
 # Summary. An optional shortened abstract.
-#summary:
+summary: CCF CWSN 2019 Best Paper Award
 
 tags:
 - Source Themes
