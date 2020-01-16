@@ -1,5 +1,6 @@
 ---
-title: "PPM: Preamble and Postamble-Based Multi-Packet Reception for Green ZigBee Communication:
+title: "PPM: Preamble and Postamble-Based Multi-Packet Reception for Green ZigBee Communication"
+authors:
 - wangzhe
 - Kangjie Xu
 - Linghe Kong
