@@ -25,7 +25,7 @@ publication_short: In *2019 SmartCom*
 abstract: Internet of Things (IoT) has been widely used in intelligent warehouse, environment monitoring and smart buildings. In these application scenarios, concurrent transmissions frequently occur in which multiple transmitters send packets to one receiver simultaneously, causing severe collisions and low throughput. The state-of-the-art methods are able to decompose collided packets from different transmitters. However, they rely heavily on random time offsets and has poor performance under inferior channel conditions. In this paper, we present a new physical layer mechanism Open image in new window (nnD) to resolve multi-packet collisions. We first collect collision-free symbols or history single packets as the training set. In order to improve the decoding accuracy, we model the mapping relationship between overlapped symbols and their symbol values by neural networks. Since overlapping combinations of symbols are limited which are decided by corresponding chips’ value, we can predict values of unknown symbols by classifying different kinds of overlapping combinations. By introducing neural networks, nnD can not only achieve a high decoding precision but also can dynamically choose neural network architecture to adapt to different collision scenarios. To evaluate the performance of nnD, extensive trace-driven simulations are conducted. The results demonstrate that nnD outperforms existing methods in terms of bit error rate and the number of concurrent transmissions.
 
 # Summary. An optional shortened abstract.
-# summary:
+summary: SmartCom2019 Best Student Paper Award
 
 tags:
 - Source Themes
