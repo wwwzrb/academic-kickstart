@@ -27,7 +27,7 @@ publication_short: In *2019 IEEE ICNP*
 abstract: As wireless communication is tailored for low-power devices while the number of Internet of Things is growing exponentially, the collision problem in ZigBee is worsen. The classical approaches of solving collision problems lie in collision avoidance and packet retransmission, which could incur considerable overhead. The new trend is to decompose multipacket collision directly, however, the high bit error rate limits its practical applications. 
 
 # Summary. An optional shortened abstract.
-summary: telecommunication congestion control;Zigbee;green ZigBee communication;low-power wireless communication technology;collision-free chips;multipacket reception;post-amble based multipacket reception;preamble based multipacket reception;Zigbee;Standards;Bit error rate;Physical layer;Transmitters;Receivers;Protocols.
+summary: collision avoidance;decoding;error statistics;frequency estimation;radio networks;wireless channels;Zigbee;recursive calibration;priori-chip-independent design;FORWARD physical layer design;Internet of Things;collision decomposition;cumulative errors;reference waveform;consecutive packets;scarce-sample errors;chip decoding;error propagation;priori-chip-dependent decomposition pattern;bit error rate;multipacket collision;packet retransmission;collision avoidance;low-power devices;wireless communication;ZigBee;Zigbee;Decoding;Bit error rate;Calibration;Throughput;Wireless communication;Physical layer.
 
 tags:
 - Source Themes
