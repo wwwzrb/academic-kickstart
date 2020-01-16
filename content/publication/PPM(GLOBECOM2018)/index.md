@@ -24,7 +24,7 @@ publication_short: In *2018 IEEE GLOBECOM*
 abstract: ZigBee, a low-power wireless communication technology, has been used in various applications such as smart health/home/buildings. The proliferation of ZigBee-based applications (and thus devices), however, makes the concurrent transmissions - i.e., multiple transmitters send packets to the same receiver at the same time - common in practice, leading to inevitable collisions. To facilitate the concurrent transmissions of ZigBee, we design Pre/Post-amble based Multi-packet reception (PPM), a method that recovers the collided ZigBee messages by exploiting their collision-free chips and the overlapped chips in their pre/post-ambles. Such a collision recovery of PPM reduces the retransmissions caused due to collisions, facilitating the realization green ZigBee. We have prototyped and evaluated PPM with USRP, showing PPM recovers the collided messages with bit-error-rates in the order of 10-6, which is magnitudes lower than state-of-the-art methods.
 
 # Summary. An optional shortened abstract.
-summary: telecommunication congestion control;Zigbee;green ZigBee communication;low-power wireless communication technology;collision-free chips;multipacket reception;post-amble based multipacket reception;preamble based multipacket reception;Zigbee;Standards;Bit error rate;Physical layer;Transmitters;Receivers;Protocols.
+summary: IEEE GLOBECOM 2018
 
 tags:
 - Source Themes
