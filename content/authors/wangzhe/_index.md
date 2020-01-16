@@ -22,7 +22,7 @@ bio: My research interests include wireless communication, data center networks 
 
 interests:
 - Wireless Communication
-- Computational Linguistics
+- Data Center Network
 - Artificial Intelligence
 
 education:
