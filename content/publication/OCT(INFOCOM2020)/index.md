@@ -26,7 +26,7 @@ publication_short: In *2020 IEEE INFOCOM*
 
 abstract: Long Range (LoRa) communication, thanks to its wide network coverage and low energy operation, has attracted extensive attentions from both academia and industry. However, existing LoRa-based Wide Area Network (LoRaWAN) suffers from severe inter-network interference, due to the following two reasons. First, the densely-deployed LoRa ends usually share the same network configurations, such as spreading factor (SF), bandwidth (BW) and carrier frequency (CF), causing interference when operating in the vicinity. Second, LoRa is tailored for low-power devices, which excludes LoRaWAN from using the listen-before-talk (LBT) mechanisms commonly used in wireless communication technologies, such as WiFi and ZigBee —LoRaWAN has to use the duty-cycled medium access policy and thus being incapable of channel sensing or collision avoidance. To mitigate the inter-network interference, we propose a novel solution achieving the online concurrent transmissions at LoRa gateway, called OCT, which recovers collided packets at the gateway and thus improves LoRaWAN’s throughput. 
 # Summary. An optional shortened abstract.
-# summary:
+summary: IEEE INFOCOM 2020
 
 tags:
 - Source Themes
