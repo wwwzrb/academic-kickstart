@@ -1,4 +1,5 @@
 ---
+
 title: "Online Concurrent Transmissions at LoRa Gateway"
 authors:
 - wangzhe
@@ -32,7 +33,7 @@ tags:
 featured: true
 
 #links:
-#- name: Custom Link
+#-name: Custom Link
 #  url: http://example.org
 # url_pdf: https://ieeexplore.ieee.org/document/8647405/
 # url_code: '#'
@@ -64,6 +65,7 @@ featured: true
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
 ---
 
 {{% alert note %}}
