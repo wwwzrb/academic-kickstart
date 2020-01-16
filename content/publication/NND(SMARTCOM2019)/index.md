@@ -31,10 +31,10 @@ tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-  url_pdf: https://ieeexplore.ieee.org/document/8647405/
+#links:
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://ieeexplore.ieee.org/document/8647405/
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
