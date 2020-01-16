@@ -24,10 +24,10 @@ publication_types: ["1"]
 publication: In *2019 IEEE International Conference on Network Protocols*
 publication_short: In *2019 IEEE ICNP*
 
-abstract: As wireless communication is tailored for low-power devices while the number of Internet of Things is growing exponentially, the collision problem in ZigBee is worsen. The classical approaches of solving collision problems lie in collision avoidance and packet retransmission, which could incur considerable overhead. The new trend is to decompose multipacket collision directly, however, the high bit error rate limits its practical applications. Toward this end, we observe three major issues in the existing solutions: 1) all existing solutions adopt the priori-chip-dependent decomposition pattern, leading to the error propagation; 2) the available samples for chip decoding can be scarce, resulting in severe scarce-sample errors; 3) existing solutions assume the consistent frequency offset for consecutive packets, leading to inaccurate frequency offset estimation. To solve the issues of collision decomposition in ZigBee, we propose FORWARD, a novel physical layer design to enable highly accurate collision decomposition in ZigBee. The key idea is to generate all possible collided combinations as reference waveforms. The decomposition is determined by comparing the collided signal with the reference waveforms. Such a priori-chip-independent design has the advantages to eliminate the cumulative errors incurred from error propagation. When decoding, FORWARD always choose the longest segment to ensure sufficient samples for decoding. Furthermore, the recursive calibration design is approaching the real-time frequency offset and dynamically compensates the reference waveform. We implement FORWARD on USRP based testbed and evaluate its performance. Experimental results demonstrate that FORWARD reduces bit error rate by 4.96× and increases throughput 1.46~2.8× compared with the state-of-the-art mZig.
+abstract: As wireless communication is tailored for low-power devices while the number of Internet of Things is growing exponentially, the collision problem in ZigBee is worsen. The classical approaches of solving collision problems lie in collision avoidance and packet retransmission, which could incur considerable overhead. The new trend is to decompose multipacket collision directly, however, the high bit error rate limits its practical applications. 
 
 # Summary. An optional shortened abstract.
-summary: {collision avoidance;decoding;error statistics;frequency estimation;radio networks;wireless channels;Zigbee;recursive calibration;priori-chip-independent design;FORWARD physical layer design;Internet of Things;collision decomposition;cumulative errors;reference waveform;consecutive packets;scarce-sample errors;chip decoding;error propagation;priori-chip-dependent decomposition pattern;bit error rate;multipacket collision;packet retransmission;collision avoidance;low-power devices;wireless communication;ZigBee;Zigbee;Decoding;Bit error rate;Calibration;Throughput;Wireless communication;Physical layer.
+summary: telecommunication congestion control;Zigbee;green ZigBee communication;low-power wireless communication technology;collision-free chips;multipacket reception;post-amble based multipacket reception;preamble based multipacket reception;Zigbee;Standards;Bit error rate;Physical layer;Transmitters;Receivers;Protocols.
 
 tags:
 - Source Themes
@@ -36,7 +36,7 @@ featured: true
 #links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8888052
+url_pdf: https://ieeexplore.ieee.org/document/8647405/
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
