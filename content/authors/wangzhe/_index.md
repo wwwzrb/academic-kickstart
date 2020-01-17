@@ -33,7 +33,7 @@ education:
   - course: MEng in Computer Science
     institution: Shanghai Jiao Tong University
     year: 2017-2019
-  - course: BSc in 
+  - course: BSc in Computer Science and Technology
     institution: Shanghai University
     year: 2013-2017
 
