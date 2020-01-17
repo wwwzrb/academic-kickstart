@@ -1,5 +1,5 @@
 ---
-title: "NnD: Shallow Neural Network BasedÂ Collision Decoding in IoT Communications"
+title: "NnD: Shallow Neural Network Based Collision Decoding in IoT Communications"
 authors:
 - wangzhe
 - Linghe Kong
