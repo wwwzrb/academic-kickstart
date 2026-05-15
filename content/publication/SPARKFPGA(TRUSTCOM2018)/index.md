@@ -5,7 +5,7 @@ authors:
 - Junjie Hou
 - Yongxin Zhu
 - Linghe Kong
-- wangzhe
+- Zhe Wang
 - Sen Du
 - Shijin Song
 - Tian Huang

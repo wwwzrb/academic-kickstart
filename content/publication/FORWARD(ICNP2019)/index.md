@@ -2,7 +2,7 @@
 title: "Forward the Collision Decomposition in ZigBee"
 authors:
 - Yifeng Cao
-- wangzhe
+- Zhe Wang
 - Linghe Kong
 - Guihai Chen
 - Jiadi Yu

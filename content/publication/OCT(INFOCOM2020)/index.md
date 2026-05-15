@@ -2,7 +2,7 @@
 
 title: "Online Concurrent Transmissions at LoRa Gateway"
 authors:
-- wangzhe
+- Zhe Wang
 - Linghe Kong
 - Kangjie Xu
 - Liang He

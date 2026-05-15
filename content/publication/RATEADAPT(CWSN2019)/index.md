@@ -1,9 +1,9 @@
 ---
-title: "PPM: Preamble and Postamble Based Multi-Packet Reception for Green ZigBee Communication"
+title: "Rate Adaptive Broadcast in Internet of Things"
 subtitle: Best Paper Award
 authors:
 - Linghe Kong
-- wangzhe
+- Zhe Wang
 - Yongshuai Duan
 - Tong Meng
 - Fan Wu
